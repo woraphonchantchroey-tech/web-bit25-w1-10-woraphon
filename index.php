@@ -8,12 +8,12 @@
         /* จัด body ให้เป็น Flexbox และดันทุกอย่างให้อยู่ตรงกลางหน้าจอพอดี */
         body {
             margin: 0;
-            padding: 0;
+            padding: 20px;
             display: flex;
             justify-content: center;  /* จัดกึ่งกลางแนวนอน */
             align-items: center;      /* จัดกึ่งกลางแนวตั้ง */
             min-height: 100vh;        /* ให้ความสูงเท่ากับหน้าจอพอดี */
-            background-color: #08a3c6;
+            background-color: #04bbe4;
             flex-direction: column;
         }
 
